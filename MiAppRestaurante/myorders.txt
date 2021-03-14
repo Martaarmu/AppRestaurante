@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repositoryOrders>
+    <order>
+        <id>1</id>
+        <client>
+            <dni>505050J</dni>
+            <name>Marta</name>
+            <age>0</age>
+            <address>Calle,Falsa,30</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+            <id>dac79907-5ce2-493d-9f40-619e8c77e60d</id>
+            <name>COCACOLA</name>
+            <price>1.5</price>
+            <forCeliac>false</forCeliac>
+            <alcoholic>false</alcoholic>
+        </listProducts>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+            <id>d9ece2e8-e606-4371-86a0-fe3adcd9ffc0</id>
+            <name>ENCHILADA</name>
+            <price>10.0</price>
+            <forCeliac>false</forCeliac>
+            <forVegan>false</forVegan>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-12T13:58:47.191</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+    <order>
+        <id>2</id>
+        <client>
+            <dni>232323K</dni>
+            <name>Luis</name>
+            <age>0</age>
+            <address>Calle,Modificada,33</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+            <id>8ac7c520-6498-4021-a249-a33a69be514f</id>
+            <name>FANTA</name>
+            <price>2.0</price>
+            <forCeliac>false</forCeliac>
+            <alcoholic>false</alcoholic>
+        </listProducts>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+            <id>2cc9148a-bef2-4ca6-b568-0c89635221a3</id>
+            <name>BURRITOS VEGETALES</name>
+            <price>6.0</price>
+            <forCeliac>true</forCeliac>
+            <forVegan>true</forVegan>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-12T14:27:54.053</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+    <order>
+        <id>3</id>
+        <client>
+            <dni>505050J</dni>
+            <name>Marta</name>
+            <age>0</age>
+            <address>Calle,Falsa,30</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+            <id>9fd0dc2a-8e89-464e-9c4d-a1f44914946b</id>
+            <name>PAZOLE</name>
+            <price>7.0</price>
+            <forCeliac>false</forCeliac>
+            <forVegan>false</forVegan>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-12T14:44:02.645</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+    <order>
+        <id>4</id>
+        <client>
+            <dni>505050J</dni>
+            <name>Marta</name>
+            <age>0</age>
+            <address>Calle,Falsa,30</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+            <id>083a8e17-9dc4-4f5b-807e-3796b62640c4</id>
+            <name>BURRITOS VEGETALES</name>
+            <price>6.0</price>
+            <forCeliac>true</forCeliac>
+            <forVegan>true</forVegan>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-12T14:46:23.084</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+    <order>
+        <id>5</id>
+        <client>
+            <dni>5555A</dni>
+            <name>aborrar</name>
+            <age>24</age>
+            <address>calle,para,borrar</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+            <id>3c39fb16-7b9a-4403-869f-4e3a31f2bc52</id>
+            <name>COCACOLA</name>
+            <price>1.5</price>
+            <forCeliac>false</forCeliac>
+            <alcoholic>false</alcoholic>
+        </listProducts>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+            <id>77549bd6-4825-4111-9ab6-a3a2e1a1a39a</id>
+            <name>PAZOLE</name>
+            <price>7.0</price>
+            <forCeliac>false</forCeliac>
+            <forVegan>false</forVegan>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-13T20:20:47.939</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+    <order>
+        <id>6</id>
+        <client>
+            <dni>50525252T</dni>
+            <name>Marta</name>
+            <age>23</age>
+            <address>calle,falsa2</address>
+            <points>0</points>
+        </client>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+            <id>eb9ec2a1-1041-4da8-88ec-00938a928c77</id>
+            <name>COCACOLA</name>
+            <price>1.5</price>
+            <forCeliac>false</forCeliac>
+            <alcoholic>false</alcoholic>
+        </listProducts>
+        <listProducts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+            <id>7f0cd763-50e6-45cc-ace0-8ae835a53a1c</id>
+            <name>TEQUILA</name>
+            <price>3.0</price>
+            <forCeliac>false</forCeliac>
+            <alcoholic>true</alcoholic>
+        </listProducts>
+        <total>0.0</total>
+        <date>2021-03-14T18:28:49.048</date>
+        <delivered>false</delivered>
+        <payed>false</payed>
+    </order>
+</repositoryOrders>

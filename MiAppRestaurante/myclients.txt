@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repository>
+    <employee>
+        <dni>50525252T</dni>
+        <name>Marta</name>
+        <age>23</age>
+        <address>calle,falsa2</address>
+        <points>0</points>
+    </employee>
+</repository>
